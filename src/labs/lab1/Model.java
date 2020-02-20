@@ -1,4 +1,4 @@
-package labs;
+package labs.lab1;
 
 /**
  * Model class
